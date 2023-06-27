@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "qrcode-generator": "^1.4.4",
-    "skia-canvas": "^1.0.0"
+    "skia-canvas": "git+https://github.com/sandy85625/skia-canvas.git#bug-roundRect"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.35.1",
